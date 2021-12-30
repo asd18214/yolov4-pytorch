@@ -4,4 +4,4 @@
 2.pytorch_version.PNG為安裝pytorch之方法。
 3.weights.png為放置weights之資料夾，因yolov4.weights檔案過於龐大，無法上傳至GITHUB，您再看看https://github.com/Tianxiaomo/pytorch-YOLOv4 裡的下載方法，但他也是用google Drive來做下載，故需看您要如何下載了。亦可參考https://github.com/WongKinYiu/PyTorch_YOLOv4 。
 4.指令參考https://github.com/Tianxiaomo/pytorch-YOLOv4 。
-DEMO TEST指令 python demo.py -cfgfile cfg/yolov4.cfg -weightfile weights/yolov4.weights -imgfile data/dog.jpg
+5.DEMO TEST指令 python demo.py -cfgfile cfg/yolov4.cfg -weightfile weights/yolov4.weights -imgfile data/dog.jpg
